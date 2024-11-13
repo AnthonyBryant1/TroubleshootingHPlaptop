@@ -1,13 +1,13 @@
 <h1>Troubleshooting an HP Laptop with No Password and Poor Performance</h1>
 
 <h2>Description</h2>
-Project consists of assisting a friend with their HP Laptop. He has forgotten his password and reports poor performance when trying to use it for even basic tasks such as web browsing.
+Project consists of assisting a friend with their HP Laptop. He has forgotten his password and reports prior to that it had poor performance when trying to use it for even basic tasks such as web browsing.
 <br />
 
 
 <h2>[Placeholder]</h2>
 
-- I will update this as my schedule permits. Thank you for your interest!
+[Work in Progress] as I balance this portfolio with my course work.
 <!--
  ```diff
 - text in red
