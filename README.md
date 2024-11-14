@@ -8,7 +8,7 @@ This project involved assisting a friend with recovering access to their HP lapt
 <h2>Overview</h2>
 
 <h3>The Password Issue</h3>
-<p>In a previous project, I helped a roommate regain access to a Windows XP device by using the sticky keys method to bypass a forgotten password. With that experience in mind, I was prepared to explore a similar approach here. However, when troubleshooting, it’s always best to start with simple, quick solutions. I noticed a four-digit string at the end of my friend’s username, which led me to try switching the login method to a PIN. This straightforward approach worked seamlessly—no password reset necessary.</p>
+<p>In a previous project, I helped a roommate regain access to a Windows XP device by using the sticky keys method to bypass a forgotten password. With that experience in mind, I was prepared to explore a similar approach here. However, when troubleshooting, it’s always best to start with the low-hanging fruit. I noticed a four-digit string at the end of my friend’s username, which led me to try switching the login method to a PIN. This straightforward approach worked seamlessly—no password reset necessary.</p>
 
 <h3>The First Snag</h3>
 <p>Next, I began evaluating the laptop’s performance. Before diving into metrics, I identified a critical issue: the battery was dead. The device could only power on when plugged in but wasn’t receiving a charge, which raised potential concerns.</p>
